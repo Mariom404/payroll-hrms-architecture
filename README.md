@@ -1,6 +1,6 @@
-# Crystalis — Payroll & Human Resources Management System (HRMS)
+# Payroll & Human Resources Management System (HRMS)
 
-Crystalis is an enterprise-grade, full-stack Human Resource Management System (HRMS) and automated payroll processing engine designed to streamline employee lifecycles, attendance tracking, configurable pay runs, and workforce administration.
+This is an enterprise-grade, full-stack Human Resource Management System (HRMS) and automated payroll processing engine designed to streamline employee lifecycles, attendance tracking, configurable pay runs, and workforce administration.
 
 ---
 
